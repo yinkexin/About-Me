@@ -1,0 +1,60 @@
+html{
+  font-family:'Roboto';
+}
+
+body {
+  line-height: 1.5;
+  background-color: #FFD4C4;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  border: 8px dotted #ff6666;
+}
+
+/*Round IMAGE*/
+.img-round {
+  border-radius: 50%;
+  width: 200px;
+  margin: 30px auto 30px;
+  display: block;
+}
+
+hr.icon:before {
+  font-family:FontAwesome;
+  color: red;
+  font-size: 2.5em;
+  padding: 0 0.25em;
+  position: relative;
+  display: inline-block;
+  top: -.7em;
+  content: "\f0a6";
+}
+
+/* Portfolio Section */
+
+
+
+
+.img-fluid {
+  width: 300px;
+  height: 300px;
+}
+
+
+/* FOOTER */
+
+
+.fa-ul {
+  margin: 15px;
+  font-size: 25px;
+  font-style: Georgia;
+  text-align: left;
+
+}
+
+.fa-ul i {
+  border-radius: 40%;
+  padding: 10px;
+}
